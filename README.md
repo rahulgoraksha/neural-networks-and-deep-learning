@@ -2,3 +2,4 @@
 Structured implementation of Neural Networks, ANN, CNN, RNN, and Deep Learning fundamentals using TensorFlow &amp; PyTorch.
 
 # Types of neural network 
+.
